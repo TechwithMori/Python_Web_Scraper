@@ -1,0 +1,4 @@
+selenium
+pika
+requests
+beautifulsoup4
